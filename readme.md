@@ -55,4 +55,6 @@ I'm a Computer Science undergraduate passionate about building scalable backend 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tharun-2006161&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Connect With Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/tharun-kumar-golthi-688063291/)) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharun-2006161) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golthitharunkumar@gmail.com)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
