@@ -18,7 +18,6 @@ I'm a Computer Science undergraduate passionate about building scalable backend 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:golthitharunkumar@gmail.com) 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
