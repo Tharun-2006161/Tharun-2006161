@@ -1,6 +1,18 @@
-# 💫 About Me:
-About Me<br><br>🔭 I’m currently working on building full-stack projects and React-based frontend applications.<br><br>🤝 I’m looking to collaborate on open-source projects, coding challenges, and innovative web development ideas.<br><br>👐 I’m looking for help with advanced Data Structures & Algorithms and Machine Learning concepts.<br><br>🌱 I’m currently learning JavaScript (in-depth), React, and Machine Learning from scratch.<br><br>💬 Ask me about DSA problem-solving strategies, Java basics, or React projects.
+# 💫 About Me
 
+🚀 Backend Engineer | AI Engineer | Full Stack Developer
+
+I'm a Computer Science undergraduate passionate about building scalable backend systems, AI-powered applications, and production-ready web platforms.
+
+💼 I specialize in Backend Development, REST APIs, Distributed Systems, and Generative AI applications using modern technologies.
+
+🔭 Currently building production-ready applications with Node.js, Express.js, PostgreSQL, Redis, Docker, Python, LangChain, and React.
+
+🌱 Currently exploring System Design, Microservices, Kubernetes, AI Agents, and Large Language Model (LLM) applications.
+
+💡 I enjoy transforming complex real-world problems into clean, scalable, and maintainable software solutions.
+
+🎯 Actively seeking Software Engineering and Backend Development internship opportunities where I can contribute, learn, and build impactful products.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:golthitharunkumar@gmail.com) 
